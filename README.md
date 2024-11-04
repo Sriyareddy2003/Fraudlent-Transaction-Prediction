@@ -1,4 +1,5 @@
 Project Overview
+
 Detecting fraudulent transactions is vital for reducing financial losses and maintaining security within the financial sector. This project focuses on building a predictive model to identify fraudulent transactions, using data-driven machine learning techniques and leveraging transaction records to improve detection accuracy.
 
 Dataset Summary
