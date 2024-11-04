@@ -10,9 +10,13 @@ fraud: Binary indicator for transaction fraud (response variable).
 Tools & Technologies Employed
 
 Python Libraries:
+
        Pandas, NumPy
+
        Scikit-learn
+       
        Matplotlib, Seaborn
+       
        PyCEBox for Partial Dependence Plots (PDP)
 Machine Learning Techniques:
        Data Preprocessing
